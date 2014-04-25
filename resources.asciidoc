@@ -2,4 +2,4 @@
 
 https://github.com/github/hub
 http://pcottle.github.io/learnGitBranching/ -- Learn by playing. 
-
+http://www.reddit.com/r/coolgithubprojects/ -- Learn by reading :) 
